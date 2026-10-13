@@ -16,7 +16,7 @@ Then start the client in the second terminal:
 python client.py
 ```
 
-[Software Demo Video](REPLACE_WITH_YOUR_YOUTUBE_LINK)
+[Software Demo Video]: https://byupathwayworldwideprod-my.sharepoint.com/:v:/g/personal/tgarcia2_byupathway_edu/IQDHvIJPTFCUTafJECmrU9lCAQHG-CHSD_i7ptasGoH3sVI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dotLVj
 
 # Network Communication
 
